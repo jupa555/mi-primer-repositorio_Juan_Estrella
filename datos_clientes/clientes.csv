@@ -1,0 +1,4 @@
+id,nombre,email,telefono,activo
+1,Ana García,ana141@gmail.com,+593991112233,true
+2,Carlos Pérez,zcarlos44@hotmail.com,+593984445566,true
+3,Lucía Mora,lucia25@gmail.com,+593977778899,false
