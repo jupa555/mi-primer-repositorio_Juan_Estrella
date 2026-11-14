@@ -1,0 +1,5 @@
+id,repositorio,lenguaje,estrellas,licencia,actualizado,activo
+1,api-gateway,Go,1420,MIT,2026-10-15,true
+2,ui-components,TypeScript,895,Apache-2.0,2026-11-02,true
+3,"data-parser, v2",Python,340,GPL-3.0,2026-08-21,false
+4,cli-tool,Rust,2150,MIT,2026-11-10,true
