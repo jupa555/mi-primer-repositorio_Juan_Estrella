@@ -1,5 +1,4 @@
-id,repositorio,lenguaje,estrellas,licencia,actualizado,activo
-1,api-gateway,Go,1420,MIT,2026-10-15,true
-2,ui-components,TypeScript,895,Apache-2.0,2026-11-02,true
-3,"data-parser, v2",Python,340,GPL-3.0,2026-08-21,false
-4,cli-tool,Rust,2150,MIT,2026-11-10,true
+id,fecha,producto,cantidad,total
+1,2026-11-10,Teclado Mecánico,2,170.00
+2,2026-11-11,Ratón Inalámbrico,1,32.50
+3,2026-11-12,Monitor HD,1,185.00
